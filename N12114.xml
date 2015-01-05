@@ -118,12 +118,12 @@
    <text xml:lang="eng">
       <front>
          <div type="half_title">
-            <pb facs="tcp:015288_0000_0F98CE9C9E930AA8"/>
-            <pb facs="tcp:015288_0001_0F98CE9E359CBF28"/>
+            <pb facs="unknown:015288_0000_0F98CE9C9E930AA8"/>
+            <pb facs="unknown:015288_0001_0F98CE9E359CBF28"/>
             <p>THE BLIND BEGGAR OF BETHNAL GREEN. A DRAMATIC PERFORMANCE. With ſeveral Inſtructive and Entertaining Pieces.</p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:015288_0002_0F98CE9EC5845A80"/>
+            <pb facs="unknown:015288_0002_0F98CE9EC5845A80"/>
             <p>THE BLIND BEGGAR OF BETHNAL GREEN.</p>
             <figure/>
             <p>A DRAMATIC PERFORMANCE: With ſeveral Inſtructive and Entertaining Pieces.</p>
@@ -133,7 +133,7 @@
             <p>1777.</p>
          </div>
          <div type="dedication">
-            <pb facs="tcp:015288_0003_0F98CE9F8560D4C0"/>
+            <pb facs="unknown:015288_0003_0F98CE9F8560D4C0"/>
             <head>To the Worthy PATRON, AND ENCOURAGER OF ALL HUMAN PROJECTS, AND DESIGNS, TO-MORROW.</head>
             <opener>
                <salute>GREAT SIR!</salute>
@@ -146,7 +146,7 @@
             </closer>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:015288_0004_0F98CEA045822FD0"/>
+            <pb facs="unknown:015288_0004_0F98CEA045822FD0"/>
             <list>
                <head>PERSONS.</head>
                <item>The Blind BEGGAR, Mr. Berry.</item>
@@ -167,7 +167,7 @@
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:015288_0005_0F98CEA10681FC30"/>
+            <pb facs="unknown:015288_0005_0F98CEA10681FC30"/>
             <head>THE BLIND BEGGAR OF BETHNAL GREEN.</head>
             <div n="1" type="scene">
                <head>SCENE I. The Beggars Houſe.</head>
@@ -189,7 +189,7 @@
                   <p>You ought not, Welford, you cannot juſtly accuſe me of unkindneſs!</p>
                </sp>
                <sp>
-                  <pb n="3" facs="tcp:015288_0006_0F98CEA1C6054A50"/>
+                  <pb n="3" facs="unknown:015288_0006_0F98CEA1C6054A50"/>
                   <speaker>WELFORD.</speaker>
                   <p>Is it not unkind, to tell me you will marry Sir William Morley?</p>
                </sp>
@@ -252,7 +252,7 @@
                      </gap> has been to me.</p>
                </sp>
                <sp>
-                  <pb n="9" facs="tcp:015288_0007_0F98CEA2857AFC10"/>
+                  <pb n="9" facs="unknown:015288_0007_0F98CEA2857AFC10"/>
                   <speaker>WELFORD.</speaker>
                   <p>He is the beſt of men: and, if report ſay true, far from a common beggar.</p>
                </sp>
@@ -288,7 +288,7 @@
                <sp>
                   <speaker>BESSY.</speaker>
                   <p>Go: I dare not wiſh, leſt they ſhould be too much ſo. For how ſtrongly ſoever I may be de<g ref="char:EOLhyphen"/>termined
-<pb n="10" facs="tcp:015288_0008_0F98CEA345733F98"/>
+<pb n="10" facs="unknown:015288_0008_0F98CEA345733F98"/>
 to obey my father, I fear that love will ſteal away my heart in ſpite of duty.</p>
                   <stage>[Exeunt.</stage>
                </sp>
@@ -330,7 +330,7 @@ to obey my father, I fear that love will ſteal away my heart in ſpite of duty.
                </sp>
             </div>
             <div n="4" type="scene">
-               <pb n="11" facs="tcp:015288_0009_0F98CEA41D6C3618"/>
+               <pb n="11" facs="unknown:015288_0009_0F98CEA41D6C3618"/>
                <head>SCENE IV.</head>
                <stage>Enter another Paſſenger.</stage>
                <sp>
@@ -396,7 +396,7 @@ to obey my father, I fear that love will ſteal away my heart in ſpite of duty.
                   <p>Well, honeſt beggar, have you thought of the propoſals I made when I ſaw you laſt?</p>
                </sp>
                <sp>
-                  <pb n="12" facs="tcp:015288_0010_0F98CEA4C55B75C0"/>
+                  <pb n="12" facs="unknown:015288_0010_0F98CEA4C55B75C0"/>
                   <speaker>BEGGAR.</speaker>
                   <p>Yes, I have thought of you and your propoſals with contempt.</p>
                </sp>
@@ -458,7 +458,7 @@ to obey my father, I fear that love will ſteal away my heart in ſpite of duty.
                <sp>
                   <speaker>BEGGAR.</speaker>
                   <p>What ſtrange creatures are the greateſt part of mankind! What a compoſition of contradic<g ref="char:EOLhyphen"/>tions! Always purſuing happineſs, yet generally thro' ſuch ways as lead to miſery: admiring every virtue in others, indulging themſelves in every vice: fond of fame, yet labouring for infamy. In ſo bad a world,
-<pb n="13" facs="tcp:015288_0011_0F98CEA586059488"/>
+<pb n="13" facs="unknown:015288_0011_0F98CEA586059488"/>
 the loſs of ſight is not really ſo great an evil as it may be apprehended.</p>
                   <lg>
                      <head>SONG.</head>
@@ -506,7 +506,7 @@ the loſs of ſight is not really ſo great an evil as it may be apprehended.</p
                <sp>
                   <speaker>SLY.</speaker>
                   <p>Thou haſt a daughter, friend, whoſe charms I have beheld with the eye of wonder and admiration.
-<pb n="14" facs="tcp:015288_0012_0F98CEA7101AC998"/>
+<pb n="14" facs="unknown:015288_0012_0F98CEA7101AC998"/>
 As a goldfinch among ſparrows, or as a peacock amongſt fowls, even ſuch is thy child amongſt the daughters of men. Her beauty maketh the roſe to bluſh with ſhame, and the lilly turneth pale with envy thereat. Ah, friend <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> what pity it were this innocent lamb ſhould fall amongſt wolves, and be devoured!</p>
@@ -550,7 +550,7 @@ As a goldfinch among ſparrows, or as a peacock amongſt fowls, even ſuch is th
                </sp>
             </div>
             <div n="7" type="scene">
-               <pb n="15" facs="tcp:015288_0013_0F98CEA7F69C2DC8"/>
+               <pb n="15" facs="unknown:015288_0013_0F98CEA7F69C2DC8"/>
                <head>SCENE VII.</head>
                <stage>
                   <hi>Enter</hi> WELFORD.</stage>
@@ -589,7 +589,7 @@ As a goldfinch among ſparrows, or as a peacock amongſt fowls, even ſuch is th
                <sp>
                   <speaker>WELFORD.</speaker>
                   <p>I have already learnt not to place any part of my happineſs in the enjoyment of riches; and
-<pb n="16" facs="tcp:015288_0014_0F98CEA9461C6460"/>
+<pb n="16" facs="unknown:015288_0014_0F98CEA9461C6460"/>
 my heart tells me, that the greateſt pleaſure I could have, would be to maintain you and your daughter by the honeſt labour of my hands.</p>
                   <lg>
                      <head>SONG.</head>
@@ -623,7 +623,7 @@ my heart tells me, that the greateſt pleaſure I could have, would be to mainta
                <sp>
                   <speaker>BEGGAR.</speaker>
                   <p>I have conſider'd of it, and I hope ſhe will conſider of it too. I would not make my child unhappy, nor will I marry her againſt her mind: but ſir William, beſides the largeneſs of his fortune, is of ſo good-natur'd and agreeable a diſpoſition, that I
-<pb n="17" facs="tcp:015288_0015_0F98CEAA0622A9D8"/>
+<pb n="17" facs="unknown:015288_0015_0F98CEAA0622A9D8"/>
 hope ſhe will ſoon be won to taſte the happineſs of her condition, and then will thank me for my care.—Come, boy, the wind methinks blows cold here, we'll go to the other ſide of the green.</p>
                   <stage>[Exit.</stage>
                </sp>
@@ -659,7 +659,7 @@ hope ſhe will ſoon be won to taſte the happineſs of her condition, and then 
                   </lg>
                </sp>
                <sp>
-                  <pb n="18" facs="tcp:015288_0016_0F98CEAAC5872170"/>
+                  <pb n="18" facs="unknown:015288_0016_0F98CEAAC5872170"/>
                   <speaker>SIR WILLIAM.</speaker>
                   <p>This, my Beſſy, is impoſſible; as your beauties have ſubdu'd my heart, your virtues have endear'd, and will ſecure the conqueſt.</p>
                </sp>
@@ -694,7 +694,7 @@ hope ſhe will ſoon be won to taſte the happineſs of her condition, and then 
                   <p>Suppoſe I did, ſir, what then?</p>
                </sp>
                <sp>
-                  <pb n="19" facs="tcp:015288_0017_0F98CEAB858446F8"/>
+                  <pb n="19" facs="unknown:015288_0017_0F98CEAB858446F8"/>
                   <speaker>RANBY.</speaker>
                   <p>Why then, my dear, you did wiſely. 'Tis as ridiculous for a beautiful woman to throw herſelf away upon a huſband, in order to preſerve her honour as it would be for a man of fortune to give away his eſtate for fear he ſhould ſpend it.</p>
                </sp>
@@ -736,7 +736,7 @@ hope ſhe will ſoon be won to taſte the happineſs of her condition, and then 
                   <p>He that would refuſe me all other ſecurity but his honour, I ſhould be afraid had too little of that to be truſted.</p>
                </sp>
                <sp>
-                  <pb n="20" facs="tcp:015288_0018_0F98CEAC459F6078"/>
+                  <pb n="20" facs="unknown:015288_0018_0F98CEAC459F6078"/>
                   <speaker>RANBY.</speaker>
                   <p>Well then, my dear Beſſy, to come cloſe to the point, you cannot ſuſpect my ſincerity, ſince I have not deſir'd you to truſt entirely to my honour, but have offered to make you a handſome ſettlement.</p>
                </sp>
@@ -795,7 +795,7 @@ hope ſhe will ſoon be won to taſte the happineſs of her condition, and then 
                <sp>
                   <speaker>RANBY.</speaker>
                   <p>Verily, friend, and ſo haſt thou: And unleſs thou doſt immediately return from whence
-<pb n="21" facs="tcp:015288_0019_0F98CEAD05649D80"/>
+<pb n="21" facs="unknown:015288_0019_0F98CEAD05649D80"/>
 thou cameſt, I will exalt the arm of fleſh againſt thee, and thy iniquity ſhall be upon thy bones.</p>
                </sp>
                <sp>
@@ -842,7 +842,7 @@ thou cameſt, I will exalt the arm of fleſh againſt thee, and thy iniquity ſh
                <sp>
                   <speaker>RANBY.</speaker>
                   <p>I ſee no likelihood of prevailing with her
-<pb n="22" facs="tcp:015288_0020_0F98CEADC5681FF0"/>
+<pb n="22" facs="unknown:015288_0020_0F98CEADC5681FF0"/>
 by fair means; ſuppoſe we force her into my coach, and drive her to a little houſe I have about ten miles off, we ſhall there bring her to a compliance.</p>
                </sp>
                <sp>
@@ -892,7 +892,7 @@ by fair means; ſuppoſe we force her into my coach, and drive her to a little h
                   <p>Hell and furies! are we diſappointed?</p>
                </sp>
                <sp>
-                  <pb n="23" facs="tcp:015288_0021_0F98CEAF446ED3A0"/>
+                  <pb n="23" facs="unknown:015288_0021_0F98CEAF446ED3A0"/>
                   <speaker>WELFORD.</speaker>
                   <p>Unhand her, or this moment is thy laſt.</p>
                   <stage>[Holds the ſword to his breaſt.</stage>
@@ -951,7 +951,7 @@ by fair means; ſuppoſe we force her into my coach, and drive her to a little h
                   <p>Nothing, indeed.</p>
                </sp>
                <sp>
-                  <pb n="24" facs="tcp:015288_0022_0F98CEAF4A95B398"/>
+                  <pb n="24" facs="unknown:015288_0022_0F98CEAF4A95B398"/>
                   <speaker>BESSY.</speaker>
                   <p>Theſe wicked men had form'd a baſe de<g ref="char:EOLhyphen"/>ſign againſt my virtue; and would even now have forc'd me from you, had not the friendly arm of my dear Welford, that inſtant interpos'd to ſave me. Forgive me, father, that I call him dear, I owe my virtue and my life to his protection.</p>
                </sp>
@@ -988,7 +988,7 @@ by fair means; ſuppoſe we force her into my coach, and drive her to a little h
                   <p>Well, there is a pleaſure after all in virtue, which we looſe fellows know not how to taſte.</p>
                </sp>
                <sp>
-                  <pb n="25" facs="tcp:015288_0023_0F98CEB04F186140"/>
+                  <pb n="25" facs="unknown:015288_0023_0F98CEB04F186140"/>
                   <speaker>BEGGAR.</speaker>
                   <p>Welford, come hither. Your father was a worthy man, and my good friend; his bounty oft relieved my ſeeming want, and his good nature took me to his friendſhip. I am glad to find that you inherit his worth, tho' not his fortune. My daughter loves you; receive her therefore from my grateful hand, and with her full five thouſand pounds in gold.</p>
                </sp>
@@ -1017,7 +1017,7 @@ by fair means; ſuppoſe we force her into my coach, and drive her to a little h
                   <p>If your joy is but equal to mine, I am happy.</p>
                </sp>
                <q>
-                  <pb n="26" facs="tcp:015288_0024_0F98CEB0C541DEF8"/>
+                  <pb n="26" facs="unknown:015288_0024_0F98CEB0C541DEF8"/>
                   <floatingText xml:lang="unk">
                      <body>
                         <div type="song">
@@ -1074,14 +1074,14 @@ by fair means; ſuppoſe we force her into my coach, and drive her to a little h
             <trailer>THE END.</trailer>
          </div>
          <div type="title_page">
-            <pb facs="tcp:015288_0025_0F98D1CF857EC8B8"/>
+            <pb facs="unknown:015288_0025_0F98D1CF857EC8B8"/>
             <p>THE KING AND THE PRIEST: BEING AN ATTEMPT TO INTRODUCE UPON THE STA<gap reason="illegible" resp="#AELD" extent="3 letters">
                   <desc>•••</desc>
                </gap> A NEW SPECIES OF PANTOMIME.</p>
          </div>
          <div type="dramatis_personae">
             <list>
-               <pb facs="tcp:015288_0026_0F98D1D045646EA0"/>
+               <pb facs="unknown:015288_0026_0F98D1D045646EA0"/>
                <head>PERSONS.</head>
                <item>PAGAN, Jewiſh, Roman, and Mahometan PRIESTS properly habited.</item>
                <item>TYRANNY, in a coat of mail, a Gothic crown on his head, and chains in his hand.</item>
@@ -1097,11 +1097,11 @@ by fair means; ſuppoſe we force her into my coach, and drive her to a little h
             </list>
          </div>
          <div type="play">
-            <pb facs="tcp:015288_0027_0F98D1D105ECB558"/>
+            <pb facs="unknown:015288_0027_0F98D1D105ECB558"/>
             <head>THE KING AND THE PRIEST.</head>
             <p>The curtain riſes to ſolemn muſick, but ſomething harſh and diſſo<g ref="char:EOLhyphen"/>nant, and diſcovers a magnificent temple; where a cabal of <hi>Egyptian</hi> Prieſts, <hi>Jewiſh</hi> Rabbins, <hi>Mahometan</hi> Mufti's, a Pope, a Cardinal, Jeſuit, and Capuchin ſeem in cloſe combination, and are all earneſtly employed in dreſſing up the figure of IMPOSTURE. After a while they ſeem by their whiſpering, nodding, winking and ſneering amongſt themſelves, to have adjuſted matters very much to their own ſatisfaction. A large cloak is thrown over the ſhoulders of the figure, to hide its deformities; a maſk of a fine compos'd grave air is clapt upon its ugly viſage: and ſeveral others, curiouſly delineated for all occaſions, are cunningly diſ<g ref="char:EOLhyphen"/>poſed of beneath the cloak: which done, the Prieſts withdraw. Then enters a band of ancient Philoſophers, properly habited; who, examining the figure of IMPOSTURE with great care, ſeem to debate amongſt themſelves with calmneſs and moderation; and at length, having pull'd off its cloak and maſk, and diſcover'd and expos'd its ſtrange features and monſtrous deformities, they are juſt upon the point of demoliſhing the figure, when the prieſts re-enter, leading in TYRANNY, with all the enſigns and officers of Civil Power attending him: by the aſſiſtance of whom, the Philoſophers are driven of the ſtage, and IMPOSTURE is again inveſted with its cloak and maſk. The Prieſts making obeiſance to the Civil Power, ſeem to beg the continuance of his protection, and the chief of them addreſſes himſelf to TYRANNY, in the following manner.</p>
             <sp>
-               <pb n="31" facs="tcp:015288_0028_0F98D1D1C5BFC188"/>
+               <pb n="31" facs="unknown:015288_0028_0F98D1D1C5BFC188"/>
                <lg>
                   <head>RECITATIVE.</head>
                   <l>THOU, regal power! vicegerent of the ſkies!</l>
@@ -1139,7 +1139,7 @@ by fair means; ſuppoſe we force her into my coach, and drive her to a little h
                   <l>O'er mind and conſcience.</l>
                </lg>
                <lg>
-                  <pb n="32" facs="tcp:015288_0029_0F98D1D285430BC0"/>
+                  <pb n="32" facs="unknown:015288_0029_0F98D1D285430BC0"/>
                   <head>AIR.</head>
                   <l>Thus in fetters doubly binding,</l>
                   <l>Souls enſlaving, bodies grinding,</l>
@@ -1184,7 +1184,7 @@ by fair means; ſuppoſe we force her into my coach, and drive her to a little h
                </lg>
             </sp>
             <p>
-               <pb n="33" facs="tcp:015288_0030_0F98D1D344ECDD40"/>
+               <pb n="33" facs="unknown:015288_0030_0F98D1D344ECDD40"/>
 ZEAL, leading PERSECUTION, goes out one way; and CORRUPTION, leading AMBITION, the other. Then enter the MUSES and the liberal ARTS, with proper habits and enſigns, who ſeem to beg pro<g ref="char:EOLhyphen"/>tection of the Prieſts and the Civil Power; but being commanded to fall down and worſhip the figure of IMPOSTURE, they refuſe; upon which they are immediately chain'd and fetter'd, and caſt down bound before it.</p>
             <p>And now the Civil and Eccleſiaſtical Powers ſeem perfectly ſecure; they ſhake hands, they embrace, and after a formal ſolemn dance, in which they alternately bow and reverence each other, they are walking off the ſtage, when they meet with the Goddeſs of LIBERTY, who leads in the Philoſo<g ref="char:EOLhyphen"/>phers, walks boldly up to the figure of IMPOSTURE, and ſtriking it with her wand, ſpeaks as follows.</p>
             <sp>
@@ -1207,7 +1207,7 @@ ZEAL, leading PERSECUTION, goes out one way; and CORRUPTION, leading AMBITION, t
                   <l>Thou haſt lovers here ſhall trace<g ref="char:punc">▪</g>
                   </l>
                   <l>
-                     <pb n="34" facs="tcp:015288_0031_0F98D1D405ACC240"/>
+                     <pb n="34" facs="unknown:015288_0031_0F98D1D405ACC240"/>
 Every charm and every grace:</l>
                   <l>Sons of wiſdom, who admire,</l>
                   <l>Sons of freedom, all on fire;</l>
@@ -1235,7 +1235,7 @@ Every charm and every grace:</l>
                   <l>Sure, by the celeſtial fire,</l>
                   <l>Will be deem'd the worthieſt man:</l>
                   <l>
-                     <pb n="35" facs="tcp:015288_0032_0F98D1D5C33238D8"/>
+                     <pb n="35" facs="unknown:015288_0032_0F98D1D5C33238D8"/>
 So the patriot warmly preſt</l>
                   <l>In his country's ſacred cauſe,</l>
                   <l>Of all ſubjects is the beſt,</l>
@@ -1281,11 +1281,11 @@ So the patriot warmly preſt</l>
             <trailer>THE END.</trailer>
          </div>
          <div type="title_page">
-            <pb facs="tcp:015288_0033_0F98D1D6A0413B90"/>
+            <pb facs="unknown:015288_0033_0F98D1D6A0413B90"/>
             <p>POEMS AND ESSAYS ON SEVERAL OCCASIONS. BY THE SAME AUTHOR.</p>
          </div>
          <div type="poem">
-            <pb facs="tcp:015288_0034_0F98D1D704E474E8"/>
+            <pb facs="unknown:015288_0034_0F98D1D704E474E8"/>
             <head>
                <gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
@@ -1315,7 +1315,7 @@ So the patriot warmly preſt</l>
             </lg>
          </div>
          <div type="poem">
-            <pb n="40" facs="tcp:015288_0035_0F98D1D7C5911838"/>
+            <pb n="40" facs="unknown:015288_0035_0F98D1D7C5911838"/>
             <head>THE CAVE OF POPE. A PROPHESY.</head>
             <lg>
                <l>WHEN dark oblivion, in her ſable cloak</l>
@@ -1348,7 +1348,7 @@ So the patriot warmly preſt</l>
                <l>Here with his friends the ſocial glaſs went round.</l>
             </lg>
             <lg>
-               <pb n="41" facs="tcp:015288_0036_0F98D1D88595D2C8"/>
+               <pb n="41" facs="unknown:015288_0036_0F98D1D88595D2C8"/>
                <l>With awful veneration ſhall they trace</l>
                <l>The ſteps which thou ſo long before haſt trod;</l>
                <l>With reverend wonder view the ſolemn place,</l>
@@ -1383,7 +1383,7 @@ So the patriot warmly preſt</l>
                <l>I love the man, I love him from my ſoul,</l>
                <l>Whom neither weakneſs blinds, nor whims controul;</l>
                <l>
-                  <pb n="42" facs="tcp:015288_0037_0F98D1D946A66C50"/>
+                  <pb n="42" facs="unknown:015288_0037_0F98D1D946A66C50"/>
 With learning bleſt, with ſolid reaſon fraught,</l>
                <l>Who ſlowly thinks, and ponders every thought:</l>
                <l>Yet conſcious to himſelf how apt to err,</l>
@@ -1425,7 +1425,7 @@ With learning bleſt, with ſolid reaſon fraught,</l>
                <l>His words are grave, deliberate, and cool,</l>
                <l>He looks ſo wiſe—'tis pity he's a fool,</l>
                <l>
-                  <pb n="43" facs="tcp:015288_0038_0F98D1DA054C7200"/>
+                  <pb n="43" facs="unknown:015288_0038_0F98D1DA054C7200"/>
 If he aſſerts, tho' what no man can doubt,</l>
                <l>He'll bring ten thouſand proofs to make it out.</l>
                <l>This, this, and this—is ſo, and ſo, and ſo;</l>
@@ -1464,7 +1464,7 @@ If he aſſerts, tho' what no man can doubt,</l>
                <l>And by that knowledge loſt the tree of life;</l>
                <l>He contradicts you, and in half an hour</l>
                <l>
-                  <pb n="44" facs="tcp:015288_0039_0F98D1DAC71CF7F8"/>
+                  <pb n="44" facs="unknown:015288_0039_0F98D1DAC71CF7F8"/>
 Moſt plainly proves—Pope Joan the ſcarlet whore.</l>
                <l>Nor head nor tail his argument affords,</l>
                <l>A jubling, incoherent maſs of words;</l>
@@ -1514,7 +1514,7 @@ Moſt plainly proves—Pope Joan the ſcarlet whore.</l>
                      <desc>〈◊〉</desc>
                   </gap> all thoſe for fools that won't ſubmit.</l>
                <l>
-                  <pb n="45" facs="tcp:015288_0040_0F98D1DBD36CC358"/>
+                  <pb n="45" facs="unknown:015288_0040_0F98D1DBD36CC358"/>
 Sir Teſty (thwart ſir Teſty if you dare)</l>
                <l>Swears there's inhabitants in every ſtar.</l>
                <l>If you preſume to ſay this mayn't be true,</l>
@@ -1550,7 +1550,7 @@ Sir Teſty (thwart ſir Teſty if you dare)</l>
             </lg>
          </div>
          <div type="poem">
-            <pb n="46" facs="tcp:015288_0041_0F98D1DDF10D5F80"/>
+            <pb n="46" facs="unknown:015288_0041_0F98D1DDF10D5F80"/>
             <head>RELIGION. A SIMILE.</head>
             <lg>
                <l>I'M often drawn to make a ſtop</l>
@@ -1583,7 +1583,7 @@ Sir Teſty (thwart ſir Teſty if you dare)</l>
                <l>In falſe or fooliſh lights 'tis plac'd,</l>
                <l>'Tis made a bugbear, or a jeſt.</l>
                <l>
-                  <pb n="47" facs="tcp:015288_0042_0F98D1DE8E2AA1F8"/>
+                  <pb n="47" facs="unknown:015288_0042_0F98D1DE8E2AA1F8"/>
 Here by a ſet of men 'tis thought</l>
                <l>A ſcheme, by politicians wrought,</l>
                <l>To ſtrengthen and enforce the law,</l>
@@ -1622,7 +1622,7 @@ Here by a ſet of men 'tis thought</l>
                <l>Than to behold iniquities;</l>
                <l>They think, unleſs they're pure and ſpotleſs,</l>
                <l>
-                  <pb n="48" facs="tcp:015288_0043_0F98D1DF52B0E598"/>
+                  <pb n="48" facs="unknown:015288_0043_0F98D1DF52B0E598"/>
 All their endeavours will be bootleſs;</l>
                <l>And dreadful furies <hi>in aeternum,</hi>
                </l>
@@ -1659,7 +1659,7 @@ All their endeavours will be bootleſs;</l>
                <l>Whets the vindictive ſteel, and aggravates the ſmart.</l>
             </lg>
             <lg>
-               <pb n="49" facs="tcp:015288_0044_0F98D1E02517E538"/>
+               <pb n="49" facs="unknown:015288_0044_0F98D1E02517E538"/>
                <head>III.</head>
                <l>He whoſe luxurious palate daily rang'd</l>
                <l>Earth, air, and ocean, to ſupply his board;</l>
@@ -1699,7 +1699,7 @@ All their endeavours will be bootleſs;</l>
                <head>VII.</head>
                <l>He too, whoſe high preſuming health defies</l>
                <l>
-                  <pb n="50" facs="tcp:015288_0045_0F98D1E0C5376748"/>
+                  <pb n="50" facs="unknown:015288_0045_0F98D1E0C5376748"/>
 Th' almighty hand of heaven to pull him down;</l>
                <l>Who ſlights the care and caution of the wiſe,</l>
                <l>Nor fears hot ſummer's rage, nor winter's frown:</l>
@@ -1741,7 +1741,7 @@ Th' almighty hand of heaven to pull him down;</l>
                <l>Where dulneſs teazes, or pert noiſe aſſails;</l>
                <l>Where trifling follies end in ſerious ſtrife,</l>
                <l>
-                  <pb n="51" facs="tcp:015288_0046_0F98D1E185A1E8E8"/>
+                  <pb n="51" facs="unknown:015288_0046_0F98D1E185A1E8E8"/>
 And money purchaſes where merit fails;</l>
                <l>What honeſt ſpirit would not riſe in rage,</l>
                <l>If Patience lent not aid his paſſion to aſſwage?</l>
@@ -1784,7 +1784,7 @@ And money purchaſes where merit fails;</l>
                <l>Dark and more dark grows what he would define,</l>
                <l>And every ſentence more and more perplext;</l>
                <l>
-                  <pb n="52" facs="tcp:015288_0047_0F98D1E245315498"/>
+                  <pb n="52" facs="unknown:015288_0047_0F98D1E245315498"/>
                   <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> he blunders on the ſame blind courſe,</l>
@@ -1828,7 +1828,7 @@ And money purchaſes where merit fails;</l>
                <l>Tho' diſtance divides us, I view thy dear face,</l>
                <l>And wander in tranſport o'er every grace;</l>
                <l>
-                  <pb n="53" facs="tcp:015288_0048_0F98D1E3052692B0"/>
+                  <pb n="53" facs="unknown:015288_0048_0F98D1E3052692B0"/>
 Now, now I behold thee, ſweet-ſmiling and pretty,</l>
                <l>O gods! you've made nothing ſo fair as my KITTY!</l>
             </lg>
@@ -1875,7 +1875,7 @@ Now, now I behold thee, ſweet-ſmiling and pretty,</l>
                <l>I hear the gay lark, as ſhe mounts in the ſkies,</l>
                <l>How ſweet are her notes! how delightful her voice!</l>
                <l>
-                  <pb n="54" facs="tcp:015288_0049_0F98D1E3C54BCDF0"/>
+                  <pb n="54" facs="unknown:015288_0049_0F98D1E3C54BCDF0"/>
 Go dwell in the air, little warbler, go!</l>
                <l>I have muſic enough while my KITTY'S below.</l>
             </lg>
@@ -1927,7 +1927,7 @@ Go dwell in the air, little warbler, go!</l>
             </lg>
          </div>
          <div type="poem_and_prose">
-            <pb n="55" facs="tcp:015288_0050_0F98D1E4851DA970"/>
+            <pb n="55" facs="unknown:015288_0050_0F98D1E4851DA970"/>
             <head>The WIFE. A FRAGMENT.</head>
             <lg>
                <l>THE virtues that endear and ſweeten life,</l>
@@ -1964,7 +1964,7 @@ Go dwell in the air, little warbler, go!</l>
                <l>Will ſooth our woes, or bear a willing part.</l>
             </lg>
             <lg>
-               <pb n="56" facs="tcp:015288_0051_0F98D1E54FAD0FC0"/>
+               <pb n="56" facs="unknown:015288_0051_0F98D1E54FAD0FC0"/>
                <l>" But are all women of the ſoothing kind?</l>
                <l>" <gap reason="illegible" resp="#AELD" extent="2 letters">
                      <desc>••</desc>
@@ -1995,22 +1995,22 @@ Go dwell in the air, little warbler, go!</l>
                <l>The ſofteſt paſſions, and the pureſt mind.</l>
             </lg>
             <p>Amongſt the neighbouring youths who ſtrove to gain FIDELIA'S heart, LYSANDER made his addreſ<g ref="char:EOLhyphen"/>ſes. He was a younger brother, of a good family, but ſmall fortune. His perſon was handſome and genteel, his manners eaſy and engaging. With theſe advantages he ſoon obtain'd a place in young FIDE<g ref="char:EOLhyphen"/>LIA's heart; and, as her fortune, which was very conſiderable, was in her own diſpoſe, there was no obſtacle to their happineſs; with all the eloquence of a lover, he preſs'd the conſummation of his wiſhes, a
-<pb n="57" facs="tcp:015288_0052_0F98D1E7093481A0"/>
+<pb n="57" facs="unknown:015288_0052_0F98D1E7093481A0"/>
 tender ſoftneſs pleads within her breaſt, ſhe yields to the force of his perſwaſions, and they are married.</p>
             <p>Who can expreſs the pleaſures which they now en<g ref="char:EOLhyphen"/>joy? To make her happy ſeem'd the ſcope of all his actions, and ſuch a growing fondneſs warm'd her heart, that every day endear'd him more and more. The fortune which ſhe brought, he managed with prudence and diſcretion; and the pleaſure which he found in her ſweet behaviour, and inchanting beau<g ref="char:EOLhyphen"/>ties, repaid his cares with intereſt. Thus flew the hours, wing'd with delight; the day paſs'd not with<g ref="char:EOLhyphen"/>out ſome new endearment; and the night felt name<g ref="char:EOLhyphen"/>leſs raptures, or ſerene repoſe.</p>
             <p>Before the end of two years their loves wer<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap> crown'd with a ſmiling boy. If any thing could en<g ref="char:EOLhyphen"/>creaſe their fondneſs of each other, 'twas this engag<g ref="char:EOLhyphen"/>ing pledge of their affection. But, alas! how varia<g ref="char:EOLhyphen"/>ble is the heart of man! how eaſily are his paſſions inflam'd! how ſoon his beſt affections alter'd! and reaſon, which ſhould be his guide, is but as the light of a candle, which the leaſt guſt of paſſion can puff out, and quite extinguiſh. Of this unhappy truth, LYSANDER ſoon became a fatal inſtance.</p>
             <p>It happen'd at this time, whether by accident of deſign, I know not, that a creature of exquiſite beau<g ref="char:EOLhyphen"/>ty, but of infamous character, came to lodge exactly over againſt the houſe of this, till then, moſt happy pair. As LYSANDER was not only poſſeſt of a hand<g ref="char:EOLhyphen"/>ſome perſon, but now alſo of an ample fortune, im<g ref="char:EOLhyphen"/>mediately a thouſand arts were try'd by this in<g ref="char:EOLhyphen"/>veigling harlot, to attract his obſervation, and if poſ<g ref="char:EOLhyphen"/>ſible to enſnare his heart. At her window, in his ſight, ſhe would appear in a looſe and tempting diſ<g ref="char:EOLhyphen"/>habille. Now in a ſeeming negligence diſcover white her naked breaſts, then with a leering ſmile pretend
-<pb n="58" facs="tcp:015288_0053_0F98D1E7855C2970"/>
+<pb n="58" facs="unknown:015288_0053_0F98D1E7855C2970"/>
 to hide them from his ſight. Her wanton eyes, all ſparkling with delight, ſhe now would fix with eager<g ref="char:EOLhyphen"/>neſs upon him; then in a ſoft and languiſhing air by ſlow degrees withdraw, yet looking back as loath to leave the place.</p>
             <p>As LYSANDER had too much experience of the world, not to underſtand this amorous language, ſo his heart was too ſuſceptible of the tender paſſion, not to feel its force. And unable to withſtand the daily repetition of theſe provoking temptations, he at laſt determin'd to go over privately one evening and make her a viſit. It will be needleſs to ſay he was kindly receiv'd, how kindly, will be better imagin'd than expreſs'd. Here had he ſtop'd, this one tranſgreſſion might have been forgiven: But ſuch was his infatu<g ref="char:EOLhyphen"/>ation, that from this time his viſits became frequent: he was ſo intoxicated with her charms (for indeed ſhe was handſome) and ſo bewitch'd with her alluring blandiſhments, that the modeſt beauty of his fair and virtuous wife became at once neglected, and at length deſpis'd.</p>
             <p>Poor FIDELIA! who can expreſs the agonies of her heart when firſt the fatal ſecret ſhe diſcover'd? Conſcious on how many accounts ſhe merited his love, pride and reſentment for ſome time ſtruggled with her affection; but ſuch was the ſoftneſs of her nature, ſuch the tenderneſs of her paſſion, that ſhe was not able to reproach him any other way than by a ſilent grief. Alone ſhe pin'd, and like a lily in the ſecret vale droop'd her fair head, unfriended and un<g ref="char:EOLhyphen"/>ſeen. Of what muſt be his heart, that ſuch endear<g ref="char:EOLhyphen"/>ing ſoftneſs could not melt, that ſuch ingaging virtue ſham'd not into goodneſs! But ſuch is the nature of vice, that it hardens the heart to all humane and generous impreſſions. At firſt, perhaps, his virtue
-<pb n="59" facs="tcp:015288_0054_0F98D1E844EA1E20"/>
+<pb n="59" facs="unknown:015288_0054_0F98D1E844EA1E20"/>
 made ſome efforts in her favour; but the trouble it coſt him to ſuppreſs them when the rage of his new<g ref="char:EOLhyphen"/>kindled flame return'd, made him by degrees unwil<g ref="char:EOLhyphen"/>ling to indulge them. Thus endeavouring to ſmother all remains of gratitude or compaſſion, he became at length as inſenſible to her grief as to her wrongs.</p>
             <p>Barbarian! how canſt thou laviſh on abandon'd vileneſs, that wealth, which love and unſuſpecting virtue truſted to thy hand! how canſt thou leave that angel ſweetneſs, that untainted roſe, for paint, pollut<g ref="char:EOLhyphen"/>ed charms, and proſtitution! how canſt thou ſee thy tender innocent babe ſuck with its milk thoſe grief<g ref="char:EOLhyphen"/>diſtilling drops, that fall inceſſant on her ſnowy breaſt, for thy unkind neglect! Unfeeling wretch! But what is man not capable to do, when blind with paſſion, harden'd with his guilt? Alas! this is but the be<g ref="char:EOLhyphen"/>ginning of her woes; and nothing to the grief this hapleſs fair one is ordain'd to ſuffer. Indifference is ſoon ſucceeded by ill nature and ill uſage. He now no longer makes a ſecret of his baſe intrigue. Whole days and nights are ſpent in her lewd chambers, ſhameleſs and open in the ſight of the world, and in the very face of his inſulted, injur'd, unoffending wife.</p>
             <p>But this was not enough. Home, and the ſight of this affronted, yet ſtill patient virtue, became uneaſy and diſguſtful. He is therefore determin'd to remove her from him. But the means of bringing this about were as infamous, as the deſire of doing it was cruel. His valet de chambre, whoſe name was Craven, had liv'd with him ſome years, and was a man whom he found to be capable of any villany he ſhould think fit to employ him in. This man he prevail'd with, by large gifts and many promiſes, to conceal himſelf in FIDELIA'S bed-chamber, and continue there, ſaid he
-<pb n="60" facs="tcp:015288_0055_0F98D1E9051A4258"/>
+<pb n="60" facs="unknown:015288_0055_0F98D1E9051A4258"/>
 to him, till after ſhe is in bed; when I will come in and pretend to ſurprize you with her: and in the confuſion which will follow, do you ſlip out of the room, and make your eſcape. This deteſtable ſcheme was no ſooner concerted, than it was put in execution. He that very evening found means to hide himſelf in <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> chamber of this innocent lady, who at her uſual h<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -2052,7 +2052,7 @@ to him, till after ſhe is in bed; when I will come in and pretend to ſurprize 
                </gap>! that I encourag'd, or that I concea<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>'d him<g ref="char:punc">▪</g> Suſpected what I am<g ref="char:punc">▪</g> good heaven,
-<pb n="61" facs="tcp:015288_0056_0F98D1E9C5A80F20"/>
+<pb n="61" facs="unknown:015288_0056_0F98D1E9C5A80F20"/>
 what am I? am I not your wife? would God I were not! O LYSANDER, there needed not this; my heart before was broke, why would you murder too my innocence? Your innocence! return'd the brute; and have you the aſſurance after this to talk of innocence? no, no, madam, I will not murder your innocence, the law ſhall do you juſtice. Saying this, he turn'd from her and was going to leave the room; when falling on her knees, and catching hold of his coat, in broken accents and a flood of tears, ſhe th<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>s addreſt him. O LYSANDER, O my dear huſband! if yet it is permitted me to call you by that name, let me intreat, nay beg upon my knees, you will not th<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -2069,12 +2069,12 @@ what am I? am I not your wife? would God I were not! O LYSANDER, there needed no
             <p>This laſt propoſal was the very thing he wiſh'd; ſo turning to her with a ſcornful look, he told her ſhe might take her bra<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap> and go whither ſhe wou'd, as ſoon as ſhe pleas'd; then breaking rudely from her, left her on the floor. What language can expreſs the agonies ſhe felt at this hard uſage! ſhe roſe from the floor where his barbarity had left her, and putting on the meaneſt cloaths ſhe had, went to the bed
-<pb n="62" facs="tcp:015288_0057_0F98D1EA86D3B228"/>
+<pb n="62" facs="unknown:015288_0057_0F98D1EA86D3B228"/>
 where lay her ſleeping babe, kiſs'd and wept over it for ſome time, then took it in her arms, and laying it to her breaſt, departed from her houſe that very night.</p>
             <p>Here for the preſent let us leave this poor unhappy wandered, with providence her ſole guide, and inno<g ref="char:EOLhyphen"/>cence her comfort; and turn to ſee what puniſhment will be prepar'd for her perfidious and inhuman huſ<g ref="char:EOLhyphen"/>band. Now unreſtrain'd he liv'd with his lewd pa<g ref="char:EOLhyphen"/>ramour in all the heights of luxury and extravagance, and every pleaſure for a while appear'd to wait on his command. But ſoon her wanton waſte and boundleſs riot brought him to diſtreſs.</p>
          </div>
          <div type="poem">
-            <pb n="63" facs="tcp:015288_0058_0F98D1EB4514E740"/>
+            <pb n="63" facs="unknown:015288_0058_0F98D1EB4514E740"/>
             <head>ROME'S PARDONS. A TALE.</head>
             <epigraph>
                <q>
@@ -2116,7 +2116,7 @@ where lay her ſleeping babe, kiſs'd and wept over it for ſome time, then took
                <l>" And to encreaſe my ill-got ſtore,</l>
                <l>" Thought it no crime t' oppreſs the poor,</l>
                <l>
-                  <pb n="64" facs="tcp:015288_0059_0F98D1EC058D2098"/>
+                  <pb n="64" facs="unknown:015288_0059_0F98D1EC058D2098"/>
 " To cheat the rich, betray my friends,</l>
                <l>" Or any thing to gain my ends.</l>
                <l>" But now grown old, and near to die,</l>
@@ -2157,7 +2157,7 @@ where lay her ſleeping babe, kiſs'd and wept over it for ſome time, then took
                <l>" 'Tis not a little thing procures</l>
                <l>" A pardon for ſuch ſins as yours,</l>
                <l>
-                  <pb n="65" facs="tcp:015288_0060_0F98D1ECC5315C68"/>
+                  <pb n="65" facs="unknown:015288_0060_0F98D1ECC5315C68"/>
 Well—rather than be doom'd to go,</l>
                <l>To dwell with everlaſting woe,</l>
                <l>One wou'd give any things, you know:</l>
@@ -2206,7 +2206,7 @@ Well—rather than be doom'd to go,</l>
                <l>And went, 'tis ſaid, to hell: But ſure</l>
                <l>He was not damn'd for being poor!</l>
                <l>
-                  <pb n="66" facs="tcp:015288_0061_0F98D1ED8552B390"/>
+                  <pb n="66" facs="unknown:015288_0061_0F98D1ED8552B390"/>
 But long he had not been below,</l>
                <l>Before he ſaw his friend come too;</l>
                <l>At this he was in great ſurprize,</l>
@@ -2239,7 +2239,7 @@ But long he had not been below,</l>
                <l>Tho' yet my numbers don't harmonious flow,</l>
                <l>I fain wou'd hope it won't be always ſo.</l>
                <l>
-                  <pb n="67" facs="tcp:015288_0062_0F98D1EF05C4B328"/>
+                  <pb n="67" facs="unknown:015288_0062_0F98D1EF05C4B328"/>
 The morning ſun emits a ſtronger ray,</l>
                <l>Still as he riſes tow'rds meridian day:</l>
                <l>Large hills at firſt obſtruct the oblique beam,</l>
@@ -2284,7 +2284,7 @@ The morning ſun emits a ſtronger ray,</l>
                      <desc>•</desc>
                   </gap>,</l>
                <l>
-                  <pb n="68" facs="tcp:015288_0063_0F98D1EFC61A6C78"/>
+                  <pb n="68" facs="unknown:015288_0063_0F98D1EFC61A6C78"/>
 The tim'rous young, juſt ventur'd from the neſt,</l>
                <l>Firſt in low buſhes hop, and often reſt;</l>
                <l>From twig to twig, their tender wings they try,</l>
@@ -2308,7 +2308,7 @@ The tim'rous young, juſt ventur'd from the neſt,</l>
             </lg>
          </div>
          <div type="poem">
-            <pb n="69" facs="tcp:015288_0064_0F98D1F085F30688"/>
+            <pb n="69" facs="unknown:015288_0064_0F98D1F085F30688"/>
             <head>ON RICHES. HUMBLY INSCRIB'D To the RIGHT HONOURABLE—</head>
             <lg>
                <l>TO ſuccour all whom grief or cares oppreſs,</l>
@@ -2342,7 +2342,7 @@ The tim'rous young, juſt ventur'd from the neſt,</l>
                <l>Like beauty, whilſt it pleaſes, wins the heart.</l>
             </lg>
             <lg>
-               <pb n="70" facs="tcp:015288_0065_0F98D1F1454E5278"/>
+               <pb n="70" facs="unknown:015288_0065_0F98D1F1454E5278"/>
                <l>MECAENAS firſt the noble liſt ſhall grace,</l>
                <l>Learning's great patron merits the firſt place.</l>
                <l>O dear to every muſe! to every art!</l>
@@ -2381,7 +2381,7 @@ The tim'rous young, juſt ventur'd from the neſt,</l>
                <l>But where's th' advantage then, will CORVUS ſay,</l>
                <l>If wealth is only lent to give away?</l>
                <l>
-                  <pb n="71" facs="tcp:015288_0066_0F98D1F205C34BC8"/>
+                  <pb n="71" facs="unknown:015288_0066_0F98D1F205C34BC8"/>
 CORVUS, were that the ſole prerogative,</l>
                <l>How great, how godlike is the power to give,</l>
                <l>Thou canſt not feel it: True, 'tis too divine</l>
@@ -2421,7 +2421,7 @@ CORVUS, were that the ſole prerogative,</l>
                <l>SYLVIO retirement loves; ſmooth cryſtal floods,</l>
                <l>Green meadows, hills and dales, and verdant woods</l>
                <l>
-                  <pb n="72" facs="tcp:015288_0067_0F98D1F2C5770088"/>
+                  <pb n="72" facs="unknown:015288_0067_0F98D1F2C5770088"/>
 Delight his eye; the warbling birds to hear,</l>
                <l>With rapture fills his ſoul, and charms his ear.</l>
                <l>In ſhady walks, in groves, in ſecret bowers,</l>
@@ -2464,7 +2464,7 @@ Delight his eye; the warbling birds to hear,</l>
                      <desc>•</desc>
                   </gap>tick warmth to glow.</l>
                <l>
-                  <pb n="73" facs="tcp:015288_0068_0F98D1F3864C1368"/>
+                  <pb n="73" facs="unknown:015288_0068_0F98D1F3864C1368"/>
 From theſe inſtructed, and from theſe inſpir'd,</l>
                <l>CRITUS for taſte and judgment is admir'd.</l>
                <l>Poets before him lay the work of years,</l>
@@ -2502,7 +2502,7 @@ From theſe inſtructed, and from theſe inſpir'd,</l>
             </lg>
          </div>
          <div type="poem">
-            <pb n="74" facs="tcp:015288_0069_0F98D1F445597608"/>
+            <pb n="74" facs="unknown:015288_0069_0F98D1F445597608"/>
             <head>A LADY'S SALUTATION TO HER GARDEN IN THE COUNTRY.</head>
             <lg>
                <l>WElcome, fair ſcene; welcome, thou lov'd retreat,</l>
@@ -2540,7 +2540,7 @@ From theſe inſtructed, and from theſe inſpir'd,</l>
             </lg>
          </div>
          <div type="poem">
-            <pb n="75" facs="tcp:015288_0070_0F98D1F5CD505340"/>
+            <pb n="75" facs="unknown:015288_0070_0F98D1F5CD505340"/>
             <head>AN EPIGRAM.</head>
             <lg>
                <l>CRIES Sylvia to a reverend dean,</l>
@@ -2571,7 +2571,7 @@ From theſe inſtructed, and from theſe inſpir'd,</l>
             </lg>
          </div>
          <div type="poem">
-            <pb n="76" facs="tcp:015288_0071_0F98D1F6856FDC68"/>
+            <pb n="76" facs="unknown:015288_0071_0F98D1F6856FDC68"/>
             <head>The PROGRESS of LOVE. A SONG.</head>
             <lg>
                <l>BEneath the myrtle's ſecret ſhade,</l>
@@ -2624,7 +2624,7 @@ From theſe inſtructed, and from theſe inſpir'd,</l>
             </lg>
          </div>
          <div type="essay">
-            <pb facs="tcp:015288_0072_0F98D1F745265FE8"/>
+            <pb facs="unknown:015288_0072_0F98D1F745265FE8"/>
             <head>PLEASURE the beſt RELIGION; OR, The Right of Mankind to do what they will, aſſerted: WITH ANSWERS TO SEVERAL OBJECTIONS. AN IRONICAL DISCOURSE.</head>
             <epigraph>
                <bibl>PROVERBS ii. Ver. 17.</bibl>
@@ -2642,7 +2642,7 @@ From theſe inſtructed, and from theſe inſpir'd,</l>
             <p n="3">3<hi>dly,</hi> I ſhall anſwer ſome objections, and ſo conclude.</p>
             <p>In the firſt place I am to ſhow, that if the ways of religion are ways of pleaſantneſs, and all her paths are paths of peace, mankind muſt have a right to do what they will.</p>
             <p>
-               <pb n="77" facs="tcp:015288_0073_0F98D1F80576D590"/>
+               <pb n="77" facs="unknown:015288_0073_0F98D1F80576D590"/>
 There is no propoſition more evident, no maxim more generally <gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>anted, than that liberty is eſſential to happineſs. This therefore I hope will not be con<g ref="char:EOLhyphen"/>teſted with me. Now I ſhall endeavour to prove, that the very eſſence of liberty conſiſts in doing what one will. Man is a free agent; obſerve, I beſeech you, the ſtrength and conciſeneſs of my reaſoning; man, I ſay, is a free agent. Now whatſoever is a free agent, muſt be ſuppoſed in all circumſtances to have a liberty of acting or not acting; therefore every man has a liberty of doing what he will. But ſome of you perhaps will object, that there is a difference between the <hi>liberty</hi> of doing what one will, and the <hi>right</hi> of ſo doing. Now, tho' the reaſoning of the pu<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -2652,7 +2652,7 @@ There is no propoſition more evident, no maxim more generally <gap reason="ille
                </gap> trifling inaccuracy, yet I ſcorn to take ſanctuary under ſo poor an indulgence. I will make this matter ſo plain, that the meaneſt capacity in this congregation ſhall moſt eaſily comprehend it. I love to preach to the common level of the common people; and this ought to be the rule of every preacher, who has not more at heart the oſtentation of his own learning, than the inſtruction of his hearers. But to the point. Mankind have a right to happineſs; liberty is eſſential to happineſs; therefore every man has a right to li<g ref="char:EOLhyphen"/>berty. Now if every man has a right to liberty, and and the very offence of liberty conſiſts (as before aſſert<g ref="char:EOLhyphen"/>ed) in doing what one will, then every man has un<g ref="char:EOLhyphen"/>doubtedly a right ſo to do. This reaſoning is ſo d<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>ong and concluſive, that I am under no apprehen<g ref="char:EOLhyphen"/>ſion of its being thought that the privilege of the pulpit alone ſecures me from contradiction. The thing ſpeaks itſelf, and every action we do confirms the truth of it. How ready are we upon all occaſions to cry out, I will do ſo and ſo, or I will not do ſo
-<pb n="78" facs="tcp:015288_0074_0F98D1F8C514CFD0"/>
+<pb n="78" facs="unknown:015288_0074_0F98D1F8C514CFD0"/>
 and ſo? Now if mankind had not a right to do what they will, theſe phraſes would be abſurd and ridiculous. Beſides, we have the authority of ſcripture to ſupport this our opinion. St. Paul, ſpeaking of a young man, ſays, <hi>let him do what he will he ſinneth not.</hi> In the twelfth chapter of Deu<g ref="char:EOLhyphen"/>teronomy it is written, <hi>we do here this day every man whatſoever is right in his own eyes.</hi> And in the twenty-fifth chapter of Leviticus, the Jews are com<g ref="char:EOLhyphen"/>manded to proclaim liberty (that is, a right of doing what they will) throughout all the land, and to all the inhabitants thereof. N<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>y David, the man after God's own heart, declares, Pſalm cxix. ver. 45. that he will <hi>walk at liberty.</hi> Now if any man ſhall pre<g ref="char:EOLhyphen"/>tend to ſay that theſe texts are not fairly quoted, I will ſhow him a hundred texts in the very graveſt authors more perverſly quoted by half. And thus I think I have ſufficiently prov'd, both from reaſon and ſcripture, that mankind have an undoubted right to do what they will.</p>
@@ -2668,7 +2668,7 @@ and ſo? Now if mankind had not a right to do what they will, theſe phraſes wo
                </gap>ſſions, and unite them all <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> brotherly love and affection; and well would that
-<pb n="79" facs="tcp:015288_0075_0F98D1F985162790"/>
+<pb n="79" facs="unknown:015288_0075_0F98D1F985162790"/>
 man deſerve from his fellow creatures who ſhould accompliſh the glorious taſk. Let us try what can be done.</p>
             <p>It has been allow'd by the beſt divines, that the only end, or at leaſt the chief motive, which God could have for creating us, was our own happineſs: I ſhall therefore take this for granted, without en<g ref="char:EOLhyphen"/>quiring any farther into the truth of it, and confine myſelf only to ſeek by what means this great end is beſt to be acquir'd.</p>
             <p>Some late writers have made a great ſtir with vir<g ref="char:EOLhyphen"/>tue, the real, the intrinſick pleaſures of virtue. But I am in hop<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -2676,7 +2676,7 @@ man deſerve from his fellow creatures who ſhould accompliſh the glorious taſ
                </gap>s that one ſingle obſervation will be ſuf<g ref="char:EOLhyphen"/>ficient to eſtabliſh it in the minds of all this good congregation, that pleaſure and virtue are two diffe<g ref="char:EOLhyphen"/>rent things. It is this: Mankind are natu<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>ally prone to ſeek their own pleaſure or happineſs, this is allow'd, this they are upbraided with, and on all hands blam'd for; but if their hypotheſis is to be granted, who place happineſs or pleaſure in the practice of virtue, it will evidently follow that mankind are prone to virtue; which I am perſuaded, my dear brethren, you all know and feel to be ſo far from truth, that I need not inſiſt any further on the falſity of it. No, I believe it will eaſily be granted me, that the ſtrongeſt bent of mankind is to what ſome call vices, but what I ſhall call natural pleaſures, and which, if happineſs is the end of our creation, muſt conſequently be al<g ref="char:EOLhyphen"/>lowed to be the readieſt means of accompliſhing that end. But I am now, for the ſake of ſome few who may be obſtinate in this error of the happineſs of vir<g ref="char:EOLhyphen"/>tue, and harden'd infidels with reſpect to the duty of natural pleaſure; for the ſake of ſuch as theſe, I ſay, I am now to prove more particularly, that there is no
-<pb n="81" facs="tcp:015288_0076_0F98D1FA44F41100"/>
+<pb n="81" facs="unknown:015288_0076_0F98D1FA44F41100"/>
 ſuch thing as happineſs in the practice of any one virtue whatſoever.</p>
             <p>Let us firſt try Charity.</p>
             <p>Charity, according to St. Paul's definition of it<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -2727,16 +2727,16 @@ man deſerve from his fellow creatures who ſhould accompliſh the glorious taſ
                </gap> of the world: Are all our nobles honourable? <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>
-               <pb n="82" facs="tcp:015288_0077_0F98D1FB057625C8"/>
+               <pb n="82" facs="unknown:015288_0077_0F98D1FB057625C8"/>
 all our clergy reverend? Who is there that ſup<g ref="char:EOLhyphen"/>poſeth it? Yet who refuſeth them the titles? Nay, ſhould we but direct a common letter to the diſho<g ref="char:EOLhyphen"/>nourable Lord A, or to the irreverend Parſon B, however juſtly they might be directed, 'tis ten to one a Proſecution might enſue for ſcandal and defa<g ref="char:EOLhyphen"/>mation; ſo dangerous, <gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>o imprudent, ſo unſafe is the practice of juſtice.</p>
             <p>Let us hear next what Chaſtity can ſay for itſelf; that impudent virtue, which dares to contradict the very firſt command of God almighty, <hi>encreaſe and multiply.</hi> This virtue relates only to our commerce with the other ſex; and would a man recommend himſelf to any woman by telling her that he was chaſte? I fancy not. It is a cold uncomfortable quality, and the man that is born with it will do wiſely to conceal his infirmity from all the world. But it will be ſaid, perhaps, this virtue belongs in a more peculiar manner to the female ſex. Let me aſk you, my beloved; would any of you like a wo<g ref="char:EOLhyphen"/>man the better for coldneſs and indifference? I tell ye no. If then this pretended virtue will neither re<g ref="char:EOLhyphen"/>commend a man to his miſtreſs, nor a lady to her lover, of what uſe is it in the world? You will ſay, the honour of families is concerned in it; perhaps it may; let every man look to that as well as he can: but ſure the peace and harmony of families depend on ſomething elſe. I could, my beloved, but at preſent I will not puſh this virtue any further; but ſhall leave it to your own pious endeavours, and doubt not but to the utmoſt of your abilities you will ſtrive to puſh it out of the world.</p>
             <p>Let us now hear what the ſneaking virtue of tem<g ref="char:EOLhyphen"/>perance can pretend to. Nature has given us appe<g ref="char:EOLhyphen"/>tites,
-<pb n="83" facs="tcp:015288_0078_0F98D1FBE156A718"/>
+<pb n="83" facs="unknown:015288_0078_0F98D1FBE156A718"/>
 and the goodneſs of heaven has abundantly fur<g ref="char:EOLhyphen"/>niſhed the world with agreeable gratifications; but this ſtern, this rigid pretender would debar us the enjoyment of them; would impiouſly contradict the good and gracious deſigns of heaven, and condemn us to faſting and mortification. But be not deceived with idle pretences; almighty wiſdom has created nought in vain: the good things of this world were made to be enjoyed, and all our appetites were given to be indulg'd therein. Let us eat then, my beloved, and drink without meaſure; always remembering the words of the wiſe ſon of Sirach, <hi>What life is there to a man that is without wine? for it was good to make men glad.</hi> Yea, let us treaſure up in our hearts that golden ſaying of Solomon, the wiſeſt man on earth, <hi>There is nothing better for a man than that he ſhould eat and drink, and make his ſoul enjoy made in his labour: for God giveth to a man that is good in his ſight, wiſdom and knowledge, and JOY.</hi> Thus you ſee, my bre<g ref="char:EOLhyphen"/>thren, that the wiſdom and knowledge which God giveth is accompanied with joy; and he that pre<g ref="char:EOLhyphen"/>tendeth to either without out, his knowledge is vain, his wiſdom is a miſery and a burden unto him.</p>
             <p>I could go on with great facility to all the other virtues; I could ſhow the ſtupidity of Patience, the poor-ſpiritedneſs of Humility, the weakneſs of Good<g ref="char:EOLhyphen"/>nature, the folly and danger of Courage, and the ab<g ref="char:EOLhyphen"/>ſolute madneſs of Sincerity; but I doubt not that what I have ſaid is ſufficient to confirm you all in the worthy principles which have hitherto influenced all your actions. I appeal to your hearts, my beloved, whether I have not ſpoken their own ſentments, and whether what I have ſaid is not ſecretly whiſper'd to every one of you from his own ſoul. I doubt not
-<pb n="84" facs="tcp:015288_0079_0F98D1FD61C64168"/>
+<pb n="84" facs="unknown:015288_0079_0F98D1FD61C64168"/>
 therefore of your hearty acquieſcence in my ſecond propoſition, that there is no pleaſure in the practice of any one <hi>virtue</hi> whatſover, and conſequently that <hi>virtue</hi> can be no part of that religion whoſe ways are ways of pleaſantneſs.</p>
             <p>I proceed, then, in the third-and laſt place, to an<g ref="char:EOLhyphen"/>ſwer ſome trifling objections, and ſo conclude. And firſt, it may perhaps be objected on the behalf of Charity, that it is humane and generous to feel and compaſſionate the diſtreſſes and misfortunes of our fellow creatures. If a man is ſo utterly loſt to all ſteadineſs and fortitude of ſoul, as to be affected, or in the leaſt moved with any thing that does not con<g ref="char:EOLhyphen"/>cern himſelf; to that man I have nothing to ſay; his heart perhaps may be ſo ſtrangely conſtituted, that for aught I know it may be a pleaſure to him to p<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
@@ -2759,7 +2759,7 @@ therefore of your hearty acquieſcence in my ſecond propoſition, that there is
                   <desc>••</desc>
                </gap>ang'd, neither is it quite prudent to loſe one's character.</p>
             <p>
-               <pb n="85" facs="tcp:015288_0080_0F98D1FE4FC97D18"/>
+               <pb n="85" facs="unknown:015288_0080_0F98D1FE4FC97D18"/>
 Thirdly, it may perhaps be urg'd againſt the plea<g ref="char:EOLhyphen"/>ſures of Luxury and Concupiſcence, that they expoſe a man to many incoveniences, ſuch as the loſs of time, health, fortune, character, and ſome few more ſuch trifles as theſe. I am afraid we muſt alſo allow that there is ſome weight in this objection. But what then? the man that has not ſpirit enough to ſacrifice theſe trifling conſiderations to the ſublime pleaſures of eating, drinking, and whoring, is undeſerving of them. What are the pains of a fever or a <gap reason="illegible" resp="#AELD" extent="2 letters">
                   <desc>••</desc>
                </gap>ur<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -2774,12 +2774,12 @@ Thirdly, it may perhaps be urg'd againſt the plea<g ref="char:EOLhyphen"/>ſure
                </gap> on the contrary is forever attended with health, peace, and pleaſure. The contraſt is ſtrong, my beloved, it muſt be confeſs'd; but whe<g ref="char:EOLhyphen"/>ther it is juſt or not, I am perſuaded none of you know. What then ſhall I adviſe? or how ſhall I direct you? Suppoſe for once you ſhould try, and enter on a courſe of Virtue: It cannot be more diſ<g ref="char:EOLhyphen"/>agreeable than a courſe of phyſick, perhaps not ſo much ſo; and then, to uſe the doctor's phraſe, it is perfectly ſafe, and cannot poſſibly do you any <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>. At firſt indeed, as you are quite ſtrangers to the re<g ref="char:EOLhyphen"/>liſh of it, it may ſeem ſomething nauſeous and unpa<g ref="char:EOLhyphen"/>latable; but if you once get over the difficulty of the firſt trial, who knows, thro' cuſtom, how agreeable
-<pb n="86" facs="tcp:015288_0081_0F98D1FEC525D348"/>
+<pb n="86" facs="unknown:015288_0081_0F98D1FEC525D348"/>
 it may become? Should it operate kindly, you will be as a man whoſe appetite thro' a long courſe of ſick<g ref="char:EOLhyphen"/>neſs has been ſo viciated as to nauſeate every thing which would nouriſh and ſupport him; and how de<g ref="char:EOLhyphen"/>lightful muſt be his ſurprize to find, upon his reco<g ref="char:EOLhyphen"/>very, every thing that is good and wholeſome, agree<g ref="char:EOLhyphen"/>able to his palate, and the eſtabliſhment of his health following the rectitude of his appetite! If this ſhould be your condition, who knows but you may live to be enamour'd of VIRTUE, to court her beauteous form, and cry out with the wiſe man in my text, <hi>Her ways are ways of pleaſantneſs, and all her paths are peace.</hi>
             </p>
          </div>
          <div type="poem">
-            <pb facs="tcp:015288_0082_0F98D1FF85DAD338"/>
+            <pb facs="unknown:015288_0082_0F98D1FF85DAD338"/>
             <head>AN EPISTLE TO MR. POPE, Occaſioned by his ESSAY on MAN.</head>
             <lg>
                <l>GREAT bard! in whom united we admire,</l>
@@ -2822,7 +2822,7 @@ it may become? Should it operate kindly, you will be as a man whoſe appetite th
                <l>And the whole ſcheme acknowledg'd all divine.</l>
             </lg>
             <lg>
-               <pb n="88" facs="tcp:015288_0083_0F98D2004578E4E8"/>
+               <pb n="88" facs="unknown:015288_0083_0F98D2004578E4E8"/>
                <l>So when at firſt I view'd thy wond'rous plan,</l>
                <l>Leading th<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
@@ -2890,7 +2890,7 @@ it may become? Should it operate kindly, you will be as a man whoſe appetite th
                </l>
             </lg>
             <lg>
-               <pb n="89" facs="tcp:015288_0084_0F98D201059B3228"/>
+               <pb n="89" facs="unknown:015288_0084_0F98D201059B3228"/>
                <l>
                   <hi>Here paus'd the muſe—alas! the jade is bit,</hi>
                </l>
@@ -2941,7 +2941,7 @@ it may become? Should it operate kindly, you will be as a man whoſe appetite th
                <l>And prove the worſt, ſometimes, as good as You.</l>
             </lg>
             <lg>
-               <pb n="90" facs="tcp:015288_0085_0F98D201C63278B8"/>
+               <pb n="90" facs="unknown:015288_0085_0F98D201C63278B8"/>
                <l>What! ſhall he taint ſuch perfect ſouls with ill?</l>
                <l>Shall ſots not place their bliſs in what they will?</l>
                <l>Nor fools be fools? Nor wits ſublime deſcend</l>
@@ -2967,7 +2967,7 @@ it may become? Should it operate kindly, you will be as a man whoſe appetite th
             </lg>
          </div>
          <div type="essay">
-            <pb facs="tcp:015288_0086_0F98D202D565A170"/>
+            <pb facs="unknown:015288_0086_0F98D202D565A170"/>
             <head>THE Huſband, Wife, and the Doctor. A MATRIMONIAL HISTORY. From the French of Monſieur De St. Evremont.</head>
             <p>AT the time that Monſieur de Comminges was ambaſſador from the moſt Chriſtian King to his M<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
@@ -2990,7 +2990,7 @@ it may become? Should it operate kindly, you will be as a man whoſe appetite th
                   <desc>•••</desc>
                </gap>tenance, which carried in it not the leaſt mark of an impoſtor.</p>
             <p>
-               <pb n="92" facs="tcp:015288_0087_0F98D204620C00E0"/>
+               <pb n="92" facs="unknown:015288_0087_0F98D204620C00E0"/>
 Monſieur de Comminges prepared himſelf to ex<g ref="char:EOLhyphen"/>amine him nicely, hoping he ſhould be able to enlarge himſelf at pleaſure upon all that he had read in Van-Helmont and Bodin: but he could not effect it, to his great concern: for the crowd became ſo trouble-ſome, and the infirm preſſed on ſo eagerly to be cured firſt, that they had much ado with menaces, and even force, to regulate their ranks.</p>
             <p>This Iriſh phyſician aſcribed all indiſpoſitions to ſpirits; and all infirmities, according to him, were poſſeſſions.</p>
             <p>The firſt man that was preſented to him, was one troubled with the gout and rheumatiſms, which he had in vain endeavour'd to get cured of. Which our wonder-maker obſerving, "I have ſeen long ago, <hi>ſays he,</hi> this ſort of ſpirits in Ireland. They are water-ſpirits which bring coldneſs, and excite ſuper<g ref="char:EOLhyphen"/>fluities of humours in theſe poor bodies. Thou evil ſpirit, who haſt left the habitation of the waters, to come and afflict this miſerable body, I command thee to abandon thy new abode, and to return to thy ancient habitation." Having ſaid this, the ſick man retired; and another was brought in his room, who complain'd he was tormented with melancholy vapours.</p>
@@ -2998,13 +2998,13 @@ Monſieur de Comminges prepared himſelf to ex<g ref="char:EOLhyphen"/>amine him
                   <desc>•</desc>
                </gap>o in effect. "Airy ſpirit, <hi>ſays the</hi> Iriſhman, Return into the air to exerciſe thy trade in raiſing of tempeſts, and ſtir up no more hur<g ref="char:EOLhyphen"/>ricanes in this ſad and miſerable body."</p>
             <p>
-               <pb n="93" facs="tcp:015288_0088_0F98D204D040D7C8"/>
+               <pb n="93" facs="unknown:015288_0088_0F98D204D040D7C8"/>
 This ſick perſon gave way to another who was diſturbed, according to the opinion of our phyſician, with a puny hobgoblin, who would not have force enough to withſtand his diſcourſe a moment. He apprehended that he had found him out by certain marks, which did not appear to us; and ſmiling upon the aſſembly. "This ſort of ſpirits, <hi>ſays he,</hi> are ſeldom troubleſome, and almoſt always diverting."</p>
             <p>In ſhort, he knew every thing that related to ſpirits. He was acquainted with their numbers, their ranks, their names, their employments and functions; nay, he boaſted that he underſtood the intrigues of de<g ref="char:EOLhyphen"/>mons, much better than the affairs of men.</p>
             <p>You cannot imagine what a reputation he gain'd in a very little time. Catholicks and proteſtants came to him from all parts; and you would have ſaid that the power of heaven was lodged in the hands of this man, when an unexpected adventure, deſtroyed the wonderful opinion which the puplic had entertain'd of him.</p>
             <p>An Engliſh gentleman and his lady, who had been married for ſome time, came to ſeek ſome relief in his miracle-working virtue againſt certain ſpirits of diſcord, ſaid they, which diſturbed their marriage, and ruined the peace of their family.</p>
             <p>The gentleman was about 45 years old, and look'd like a perſon of eſtate and quality. Methinks I have the lady yet before my eyes. She was about thirty years old, and was perſonable enough; but one might eaſily read in her face, that ſhe had been much more handſome formerly. I have named the huſband firſt,
-<pb n="94" facs="tcp:015288_0089_0F98D2058F75C380"/>
+<pb n="94" facs="unknown:015288_0089_0F98D2058F75C380"/>
 for the dignity of his rank; yet the wife would ſpeak firſt, whether it was becauſe ſhe believ'd her ſelf to be moſt tormented by her ſpirit, or that ſhe was only excited with that ambition of talking, which is ſo natural to her ſex.</p>
             <p>"My huſband, <hi>ſaid ſhe,</hi> is one of the beſt men in the world, I give him a thouſand diſquiets, and he gives me no fewer in his turn. I would willingly live comfortably with him, and ſhould not fail of my deſires, if a ſtrange ſpirit, with which I feel myſelf poſſeſſed at certain times, did not make me ſo peeviſh and ill<g ref="char:punc">▪</g>humour'd, that there's no enduring me. After theſe agitations are over, I return to my natural good humour; I then omit nothing that may ſerve to oblige my huſband: But his demon poſſeſſes him, when mine forſakes me; and this huſband of mine, who bears my tranſports ſo patiently, is a down-right fury to me, when I am myſelf. And alas! I endure no leſs from him, than he from me." Here ſtopt our lady, who in all appearance, ſtated her caſe truly; and the huſband, who ſeem'd to be no leſs ſincere then his wi<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
@@ -3028,21 +3028,21 @@ for the dignity of his rank; yet the wife would ſpeak firſt, whether it was be
                </gap> or <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>, which makes our
-<pb n="95" facs="tcp:015288_0090_0F98D20649E25988"/>
+<pb n="95" facs="unknown:015288_0090_0F98D20649E25988"/>
 condition as miſerable as can be imagin'd. Thus Doctor, I have acquainted you with our caſe, and if you have a remedy for it, I deſire you to be our de<g ref="char:EOLhyphen"/>liverer. The cure of a diſtemper ſo ſtrange as this of ours, will bring you no little honour."</p>
             <p>"Theſe are neither hobgoblins nor fairies, <hi>ſaid the</hi> Iriſhman, they are ſpirits of the firſt order, and belong to Lucifer's legion: Proud demons, great enemies to obedience, and very hard to expel. You will not take it amiſs, gentlemen, purſued he, turning to the aſſembly, if I examine my books a little; for I have occaſion for words that are out of the common road." Upon this he withdrew into a cloſe, in order to turn over his books and papers; and after he had tried a hundred forms, as too weak to combat ſuch powerful enemies, he pitch'd at laſt upon one, that was able, as he pretended, to confound and expel all the devils in hell.</p>
             <p>The firſt effect of the conjuration was upon him<g ref="char:EOLhyphen"/>ſelf; for his eyes began to rowl in his head, with ſo many grimaces and convulſions, that his patients might very well take him for a diſtracted man.</p>
             <p>After he had ſtared and looked about him, he fixed his eyes at length upon this virtuous couple, and ſtriking both of them with a wand, which cou'd not be without virtue: "Begone, ye ſpirits of diſſen<g ref="char:EOLhyphen"/>tion, <hi>ſays he,</hi> and exerciſe diſcord in hell, and by your departure let that happy union be re-eſtabliſhed, which you have ſo impiouſly broken. Then he ap<g ref="char:EOLhyphen"/>proached ſoftly to the ears of the pretended poſſeſſed, and raiſing the tone of his voice, I hear you murmur devils, at the obedience which ye are forced to pay
-<pb n="96" facs="tcp:015288_0091_0F98D20713415DF8"/>
+<pb n="96" facs="unknown:015288_0091_0F98D20713415DF8"/>
 to me: But were ye to burſt with madneſs ye muſt be gone. Depart, depart, and you my friends, go and enjoy that repoſe, which ye have been deprived of ſo long. 'Tis done, gentlemen, and I proteſt to you that I am all over in a ſweat with the fatigue, which the oppoſition of theſe obſtinate devils has given me. I believe I have had to do with two thouſand ſpirits in my time, who all together have not given me ſo much pain and trouble as theſe." After this our Iriſhman retired, and all the company went out of the houſe, and our good couple returned to their lodgings, with a ſatisfaction more miraculous than the prodigy, which had been wrought in their favour.</p>
             <p>When they came home, every thing appeared agreeable to them upon this new alteration of mind, which created a new diſpoſition in their ſenſes: They found a ſmiling air in every thing; they lookt upon themſelves with pleaſure, and were not wanting in ſweet and tender words to expreſs their love. But, vain delights, how little dependance is there upon your duration! And how unſeaſonably, do perſons that are born to misfortunes rejoice, when they ob<g ref="char:EOLhyphen"/>tain one ſhort moment of happineſs.</p>
             <p>Such was their tranquillity, when a lady of their acquaintance came, to acquaint them with the general joy of the town for their cure.</p>
             <p>They anſwered this civility in a very obliging manner, and the uſual compliments on this occaſion being made and returned, the huſband began a very pertinent converſation upon the happy condition they were now in, after ſo many miſeries as they had
-<pb n="97" facs="tcp:015288_0092_0F98D207C576A6B0"/>
+<pb n="97" facs="unknown:015288_0092_0F98D207C576A6B0"/>
 endured. Our wife, either to cauſe a greater admira<g ref="char:EOLhyphen"/>tion of this miracle, or elſe to pleaſe her own malici<g ref="char:EOLhyphen"/>ous humour, enlarged herſelf with ſatisfaction upon the tricks which her devil had ſuggeſted to her, to torment her huſband. Upon which, the huſband jealous of the honour of his devil, or at leaſt, of his own authority, gave her to underſtand, That ſhe talked too feelingly of things paſt, the remembrance whereof was troubleſome to him. He added, That conſidering all was now well, ſhe ought to think of nothing elſe, but that obedience which a wife owes to her huſband; as he would only conſider on his ſide, how to make a lawful uſe of his privileges, in order to make their condition as happy for the future, as it had been unfortunate till now.</p>
             <p>Our wife, who deeply reſented the word obedience; but eſpecially the cruel injunction to hold her tongue, brought all the arguments ſhe cou'd think of, to prove an equality in marriage, ſaying, That the devils were not at ſuch a diſtance, but they might be re<g ref="char:EOLhyphen"/>called, in caſe this equality was violated.</p>
             <p>The lady above-mention'd, who was as diſcreet and judicious as any of her ſex, wiſely repreſented to her the duty of wives, and at the ſame time preach<g ref="char:EOLhyphen"/>ed up the conduct and good management, that huſbands are obliged to uſe. But her reaſons, inſtead of compoſing, did but more incenſe her, ſo that ſhe became more inſupportable than before. You are in the right, dear wife, replied the huſband, "The devils were not gone ſo far, but they might eaſily be recalled; or rather, you have been ſo kind to yours, that he reſolves to continue with you, notwithſtanding the poſitive command that was laid upon him to
-<pb n="98" facs="tcp:015288_0093_0F98D20885669180"/>
+<pb n="98" facs="unknown:015288_0093_0F98D20885669180"/>
 leave you. I am too weak of myſelf to be concerned alone with you and him; which obliges me to retire, expoſed as I am to ſuch an unequal combat. And I likewiſe retire, ſays ſhe, with this ſpirit, that will not abandon me. He muſt be a very ill humour'd <gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>ort of a devil indeed, if he is not more tractable than ſo troubleſome a huſband. Then turning towards her friend: Before I go, ſaid ſhe to her. I am glad I have an occaſion, madam, to tell you freely, that I expect<g ref="char:EOLhyphen"/>ed quite another treatment from your friendſhip, and that you have forgot the intereſt which obliges you, to take a wife's part againſt the ill uſage of her huſ<g ref="char:EOLhyphen"/>band. 'Tis a very ſtrange thing that I ſhould be run down by one that ought to have eſpouſed my quarrel. Adieu, madam, adieu; your viſits do me a great deal of honour, but one may very well be with<g ref="char:EOLhyphen"/>out them, if this is all the good they do."</p>
@@ -3050,12 +3050,12 @@ leave you. I am too weak of myſelf to be concerned alone with you and him; whic
             <p>You may imagine ſhe did not ſtay long alone in a houſe, where nothing was talked of but devils, and nothing done but what was extravagant to the higheſt degree.</p>
             <p>The huſband paſſed the reſt of the day and all the night in his chamber, aſhamed of the ſhort-liv'd joy he had received, vexed at the preſent ſtate of his affairs, and reflecting, with great anxiety of mind upon what he might expect from this ſudden return of his wife's diſtemper:</p>
             <p>
-               <pb n="99" facs="tcp:015288_0094_0F98D2094520D5F0"/>
+               <pb n="99" facs="unknown:015288_0094_0F98D2094520D5F0"/>
 As the agitation of the wife had been much more violent, ſo it continued not ſo long; and returning ſoon to herſelf, ſhe made ſome reflections upon the loſs of thoſe pleaſures, of which ſhe ſaw herſelf depriv'd.</p>
             <p>A certain reſtleſs ſpirit that ſhall be nameleſs, ſuffer'd few moments to paſs without demanding a reaſon of the ſpirit of diſcord, why it ſhould ſacrifice its intereſt and pleaſure to it thus to no purpoſe. This ſpirit, which particularly influenceth thoſe of the fair ſex, but chiefly a-nights when they cannot ſleep, had its deſired effect upon our lady, ſo that reſigning herſelf up purely to the conduct of nature, ſhe awaked her huſband as ſoon as was day, deſigning to aſcribe all paſt diſorders to a ſtrange power, which is neither natural nor human. "I am ſatisfied, <hi>ſaid ſhe,</hi> in the lucid interval I enjoy at preſent, that our ſpirits did not immediately leave us, when our Iriſh Doctor commanded them to be gone; but if you'll take my advice, my dear, but too unhappy huſband, we will go again and aſk him for a ſtronger and more effectual charm."</p>
             <p>The poor huſband, oppreſſed with grief, as he was, and fainting under the ſeverity of his deſtiny, judge if he was not very glad to find ſo unexpected a calm, and tenderly affected with this amorous return in his ſpouſe: "Let us bemoan, my dear, <hi>ſays he</hi> to her, Let us bemoan our common misfortunes, and go a ſecond time to ſcarch a remedy, which at firſt we could not obtain."</p>
             <p>The wife was agreeably ſurprized at this diſcourſe; for inſtead of a troubleſome demon whoſe inſults ſhe
-<pb n="100" facs="tcp:015288_0095_0F98CEB30583F8D8"/>
+<pb n="100" facs="unknown:015288_0095_0F98CEB30583F8D8"/>
 expected, ſhe happily found a man tender and com<g ref="char:EOLhyphen"/>paſſionate, who gave her com<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>ort for that very uneaſi<g ref="char:EOLhyphen"/>neſs ſhe had given him; and of which he himſelf had bore the greateſt ſhare.</p>
@@ -3066,7 +3066,7 @@ expected, ſhe happily found a man tender and com<g ref="char:EOLhyphen"/>paſſ
                </gap> operation they have tormented us, as it were out of ſpite, more violently then ever."</p>
             <p>"You are incredulous, <hi>cried out our good</hi> Iriſhman in a wonderful paſſion, or at leaſt ungrateful, who maliciouſly deny thoſe benefits ye have received. Approach hither, approach; that I may convict you of incredulity, or malice.</p>
             <p>
-               <pb n="101" facs="tcp:015288_0096_0F98CEB186AD7900"/>
+               <pb n="101" facs="unknown:015288_0096_0F98CEB186AD7900"/>
 When they came near him, he nicely examined all the lines of their faces. He particularly obſerved their looks, and as if he had diſcovered in the apple of their eyes ſome impreſſion of theſe ſpirits; "you are in the right, <hi>ſays he, all amaz'd;</hi> you are in the right they are not yet diſlodg'd. They are too deeply rooted in your bodies to ſurrender at the firſt ſum<g ref="char:EOLhyphen"/>mons, but they muſt hold faſt indeed, if the words I am going now to pronounce, don't eject them.</p>
             <p>
                <q>Leave, you accurſed race, an habitation of re<g ref="char:EOLhyphen"/>poſe too good for you, and go and rave for ever in places, where dwell horror, madneſs, and deſpair.</q>
@@ -3084,23 +3084,23 @@ When they came near him, he nicely examined all the lines of their faces. He par
                </q>
             </p>
             <p>
-               <pb n="102" facs="tcp:015288_0097_0F98CEB24566CC18"/>
+               <pb n="102" facs="unknown:015288_0097_0F98CEB24566CC18"/>
 'Twas happy for the huſband, that his wife accuſed the devils that were innocent; for ſhe was now ſatisfied that our famous phyſician was a true Iriſh<g ref="char:EOLhyphen"/>man, who, for all his pretences, had not ſkill enough to conjure down an <hi>Ignis Fatuus.</hi> Sometimes ſhe imputed to herſelf this non-performance of her huſ<g ref="char:EOLhyphen"/>band, after the example of the Spaniſh women, who attribute to themſelves, in theſe occaſions, the failings of their lovers; as being perſuaded that the force of their charms ought neither to ſubmit to the infir<g ref="char:EOLhyphen"/>mity of nature, nor to the power of witchcraft.</p>
             <p>Thus our wife, who accuſed her huſband in every thing elſe, where he was moſt innocent, juſtifies him where he was moſt deficient, in paying the conjugal tribute; and rather choſe to impute a want of love in him, to a want of charms in herſelf, than to a real defect, which would prove eternally deſtructive of her pleaſures. But as a lady doth not willingly enter<g ref="char:EOLhyphen"/>tain a thought that hurts the intereſt of her beauty, ſhe immediately recalled in her mind the malice of the devils, and turn'd her confuſion into anger againſt the Iriſhman, who had not ſkill enough to eject them.</p>
             <p>"We have, <hi>ſays ſhe, with anger ſparkling in her eyes,</hi> we have been too long made fools of by this ſorry Bogg-Trotter, but now I find that 'tis nonſenſe to expect our deliverance from him. However it is not enough that we are undeceived; juſtice obliges us to undeceive others as well as ourſelves, and to make known to the world, the roguery of theſe quacks."</p>
             <p>"My dear, <hi>reply'd the huſband,</hi> 'Tis undoubtedly true, that the misfortune of this night is purely owing
-<pb n="103" facs="tcp:015288_0098_0F98CEB3C56414C8"/>
+<pb n="103" facs="unknown:015288_0098_0F98CEB3C56414C8"/>
 to our devils. The Iriſhman thought to banter, but they reſolved to ridicule him and us in their turn. You know me, and I know myſelf; ſuch a ſtrange impotence cou'd not naturally happen, I ſay it cou'd not naturally happen, and I dare ſwear there was witchcraft in the caſe. But my dear, <hi>continued he,</hi> when you take the impoſtor to taſk, don't mention the particulars; and let nothing ſlip, which may tend to our ſhame. All family ſecrets ought to be concealed: But this in a more particular manner."</p>
             <p>The wife had like to have relapſed into one of her old fits to ſee herſelf ſuſpected of ſuch an indiſcretion: But not to embroil things anew, that were tending to a good accommodation, ſhe promis'd ſo to manage herſelf, that none but the Iriſhman ſhould find fault with her.</p>
             <p>We uſually ſeek the night to conceal our ſhame, but the day here appeared to diſperſe it; and theſe unhappy perſons who were not yet well recovered of their misfortune, got up with the ſun, who enlivens all things, in hopes their affairs wou'd change for the better.</p>
             <p>They roſe out of their bed with more tranquillity, than they had found there, and after a ſmall breakfaſt, and a little converſation to fortify their bodies, and reconcile their minds, they went in peace and good union towards the houſe, whither they had gone twice with confidence, and from whence they had twice returned without any relief. They received advice there, that the Iriſhman was gone to St. James's to perform ſome wonders there, at the inſtance of Monſieur d'Aubigny, ſo well known to all the world,
-<pb n="104" facs="tcp:015288_0099_0F98CEB4855F07D0"/>
+<pb n="104" facs="unknown:015288_0099_0F98CEB4855F07D0"/>
 for one of the moſt agreeable men that ever was<g ref="char:punc">▪</g> Behold then ſome of the prodigies which I remarked at St. James's, with leſs credulity than the multitude, and with leſs prejudice than Monſieur d'Aubigny.</p>
             <p>Already did the blind ſuppoſe they ſaw that light they did not ſee; already did the deaf imagine they heard, and heard not; the lame already thought they were grown well; and the impotent reaſſumed in imagination the firſt uſe of all their limbs. A ſtrong idea of health had made the ſick forget their diſ<g ref="char:EOLhyphen"/>tempers; and imagination which was no leſs active in the curious, than in the ſick, gave the firſt a falſe proſpect through their deſire of ſeeing, as it gave a falſe cure to the ſecond, through their deſire of being cured.</p>
             <p>Such was the power of the Iriſhman upon our minds: Such was the force of our minds upon our ſenſes. Thus nothing was talked off but prodigies; and theſe prodigies came from ſo great an authority, that the aſtoniſhed multitude receiv'd them with ſubmiſſion, whilſt ſome more knowing perſons durſt not reject them by their knowledge.</p>
             <p>A timorous and ſlaviſh knowledge always pays reſpect to an imperious and authoriz'd error: The ſoul was weak when the underſtanding was ſound, and thoſe who ſaw beſt into theſe imaginary cures, durſt not ſpeak their real ſentiments among a preju<g ref="char:EOLhyphen"/>diced and deluded herd of believers.</p>
             <p>Such was the triumph of the Iriſhman, when our couple couragiouſly broke through the crowd, to come and inſult him in all his majeſty. "Art not
-<pb n="105" facs="tcp:015288_0100_0F98CEB545C0888"/>
+<pb n="105" facs="unknown:015288_0100_0F98CEB545C0888"/>
 thou aſhamed, <hi>ſaid the wife to him,</hi> to abuſe the ſimple and credolous people as thou doſt, by pretending to a power, which thou never hadſt? Thou haſt enjoin'd our devils to leave us in repoſe, and they have but torment<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>ed us the more for't. Thou haſt commanded them to be gone, yet they ſtill perſecute us, not with<g ref="char:EOLhyphen"/>ſtanding thy orders, and equally deride our ſottiſh credulity, and thy ineffectual impotence."</p>
@@ -3109,21 +3109,21 @@ thou aſhamed, <hi>ſaid the wife to him,</hi> to abuſe the ſimple and credolo
             <p>His confuſion extremely mortified the aſſembly, there being nothing that a man receives with ſo much ſatisfaction, as the opinion of a miracle, nor leaves with more difficulty and concern.</p>
             <p>As for Monſieur d'Aubigny, he ſoon reckon'd this prophet in the ſame claſs with others, whom he had tried; being reſolv'd for the future to keep to thoſe of the country, without any inclination to make uſe of new comers, merely becauſe they were ſtrangers.</p>
             <p>
-               <pb n="106" facs="tcp:015288_0101_0F98CEB6054968A8"/>
+               <pb n="106" facs="unknown:015288_0101_0F98CEB6054968A8"/>
 All the company retired, aſhamed of their eaſineſs to be abus'd, and yet ve<gap reason="illegible" resp="#AELD" extent="2 letters">
                   <desc>••</desc>
                </gap>ed at the loſs of their error. Our married couple, glorious and triumphant, enjoyed the pleaſures of victory, without any further thoughts of the devils; and Monſieur d'Aubigny, who eaſily paſſed from one opinion to another, quitted his former belief of our miracle-monger, to give himſelf the pleaſure of laughing with me, at what had hap<g ref="char:EOLhyphen"/>pen'd.</p>
             <p>At my breaking out into a ſudden fit of laughter, the huſband turned his head towards us, and perceiv<g ref="char:EOLhyphen"/>ing Monſieur d'Aubigny, he came civilly up to him to excuſe himſelf for what he had done in his houſe, without aſking his permiſſion. Mr. d'Aubigny an<g ref="char:EOLhyphen"/>ſwered him very courteouſly, and gave him thanks, not only for diſabuſing the public, but alſo for unde<g ref="char:EOLhyphen"/>ceiving himſelf in particular.</p>
             <p>The wife immediately took her part in the conver<g ref="char:EOLhyphen"/>ſation, which did not render it leſs agreeable; for although ſhe was really extravagant, yet it was a ſort of extravagance which proceeded rather from her humour than her mind: But now ſhe took care to conceal it; and we talk'd of nothing but mirth and pleaſantry, when Mr. d'Aubigny entertain'd them with the graveſt diſcourſe in the world, which I little expected.</p>
             <p>"I am, <hi>ſays he,</hi> a perſon of an acknowledging temper, and ſhould be ungrateful if I did not draw you out of your error, after I have been oblig'd to you for drawing me out of mine. As it was not enough for your own minds to torment you, and that there muſt be ſomething elſe beſides a long marriage
-<pb n="107" facs="tcp:015288_0102_0F98CEB775D2E670"/>
+<pb n="107" facs="unknown:015288_0102_0F98CEB775D2E670"/>
 to give you that uneaſineſs which has perſecuted you ſo long. There is no man but is ſometimes at a loſs with himſelf. Is it poſſible you ſhould believe that you were poſſeſs'd with evil ſpirits? The wiſeſt are weary of themſelves, a<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>ter they have been weary of others: And would you have a huſband and wife, who are always of different minds, and different humours, to live eternally together without diſguſt, without vexation, and without diſputes? Believe me, ſir, of a hundred married couples, fourſcore and ten at leaſt are poſſeſſed, after your faſhion, without any of the devil's aſſiſtance to make them ſo. The only difference I find between them and you is, that they ſuffer their misfortunes with patience, and conceal them with diſcretion, whereas you importune heaven and hell for yours, in laying your unhappineſs on demons that are innocent, and in ſeeking a ſuperna<g ref="char:EOLhyphen"/>tural aſſiſtance when there is no occaſion for it."</p>
             <p>What may paſs for a real prodigy, was the ſudden alteration in the huſband and his wife, upon the diſ<g ref="char:EOLhyphen"/>courſe of Mr. d'Aubigny; they look'd upon them<g ref="char:EOLhyphen"/>ſelves with aſtoniſhment, aſham'd of having been their own devils, when there was nothing of poſſeſſi<g ref="char:EOLhyphen"/>on, but only contrariety of humours in the caſe.</p>
             <p>The huſband was the firſt who returned from his confuſion to give a thouſand thanks to Mr. d'Aubigny, for having given them the true knowledge of their misfortune. "But, <hi>Replied the wife,</hi> doth this know<g ref="char:EOLhyphen"/>ledge make us er'e the leſs unhappy? And don't we as much want a remedy againſt the torment of mar<g ref="char:EOLhyphen"/>riage, as we thought we did againſt that of the devils?</p>
             <p>
-               <pb n="108" facs="tcp:015288_0103_0F98CEB785B28EA0"/>
+               <pb n="108" facs="unknown:015288_0103_0F98CEB785B28EA0"/>
 When I obſerved M<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>. d'Aubigny ready to ſay ſomething pleaſant upon ſo merry a ſubject, I had a mind to preſerve to him the merit of a gravity, which was not ordinary with him. Whereupon I immedi<g ref="char:EOLhyphen"/>ately took up the diſcourſe.</p>
@@ -3136,7 +3136,7 @@ When I obſerved M<gap reason="illegible" resp="#AELD" extent="1 letter">
       </body>
       <back>
          <div type="publishers_advertisement">
-            <pb facs="tcp:015288_0104_0F98CEB84598C510"/>
+            <pb facs="unknown:015288_0104_0F98CEB84598C510"/>
             <head>NEW PUBLICATIONS now ſelling at BELL's Book-Store next Door to St Paul's Church, in Third Street, Philadelphia.</head>
             <p n="1">1 THE SEASONS, containing Spring, Summer, Autumn, and Winter. With Poems on ſeveral occaſions. By James Thomſon. To which are added, An accoun of the Life and Writ<g ref="char:EOLhyphen"/>ings of the Author.</p>
             <p n="2">2 PARADISE LOST. A POEM, in Twelve Books. Alſo PARADISE REGAIN'D. A POEM, in Four Books To which are added, SAMSON AGONISTES: and Poems on ſeveral Occa<g ref="char:EOLhyphen"/>ſions<g ref="char:punc">▪</g> with the Maſk of Comus. The Author JOHN MILTON, with the Life of the Author. 2 vols.</p>
@@ -3209,7 +3209,7 @@ When I obſerved M<gap reason="illegible" resp="#AELD" extent="1 letter">
                </gap> of Arts and Sciences, and from various modern Authors.</p>
          </div>
          <div type="publishers_advertisement">
-            <pb facs="tcp:015288_0105_0F98D1C3853D7610"/>
+            <pb facs="unknown:015288_0105_0F98D1C3853D7610"/>
             <head>BOOKS in Phyſic, Surgery, and Chemiſtry, now ſelling at BELL's BOOK-STORE.</head>
             <p n="1">1 NEUMAN's Chemical Works, with large Editions, containing the later Diſcoveries and Improvements made in Chemiſtry, and the Arts depending thereon. By William Lewis. M. B.</p>
             <p n="2">2 Cullen's Lectures on the Materia Medica.</p>
@@ -3250,7 +3250,7 @@ When I obſerved M<gap reason="illegible" resp="#AELD" extent="1 letter">
                <g ref="char:EOLhyphen"/>ral Waters.</p>
          </div>
          <div type="publishers_advertisement">
-            <pb facs="tcp:015288_0106_0F98D1C4459974D8"/>
+            <pb facs="unknown:015288_0106_0F98D1C4459974D8"/>
             <head>A CATALOGUE OF BOOKS</head>
             <p n="29">29 Paxton's Phyſico-Medical Directory for all who deſign to ſtudy and practice Phyſic.</p>
             <p n="30">30 Freke's Eſſay on the Art of Healing.</p>
@@ -3286,7 +3286,7 @@ When I obſerved M<gap reason="illegible" resp="#AELD" extent="1 letter">
             <p n="58">58 Medical Eſſays and Obſervations, Publiſhed by a Society in Edinburgh. 5 vols.</p>
          </div>
          <div type="publishers_advertisement">
-            <pb facs="tcp:015288_0107_0F98D1C5066D7A30"/>
+            <pb facs="unknown:015288_0107_0F98D1C5066D7A30"/>
             <head>At BELL's Book Store in Third-Street PHILADELPHIA, may be had<g ref="char:punc">▪</g> Great variety of new and old Books in the Arts and Sciences; Like<g ref="char:EOLhyphen"/>wiſe, Hebrew, Greek, Latin, Engliſh and French Claſſics; With Hiſtory, Divinity, Law, Plays, Novels; and lnſtructive Entertain<g ref="char:EOLhyphen"/>ment.</head>
             <p>Among which are,</p>
             <list>
